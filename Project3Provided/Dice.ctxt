@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dice\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nDots
+comment1.target=Dice(int)
+comment2.params=existingDiceImage\ newValue
+comment2.target=void\ redrawImage(greenfoot.GreenfootImage,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ getImg()
+comment5.params=
+comment5.target=int\ getnDots()
+comment6.params=nDots
+comment6.target=void\ set(int)
+numComments=7
